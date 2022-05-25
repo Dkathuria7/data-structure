@@ -2,7 +2,7 @@
 #include<conio.h>
 void main()
 {
-    int a[10] = {1, 41, 6, 3, 7, 7, 75, 3, 63, 12};
+    int a[10] = {1, 41, 6, 3, 7, 7, 75, 3, 63, 11};
     void bubble(int[], int);
     void print(int[]);
     clrscr();

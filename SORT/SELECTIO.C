@@ -5,7 +5,7 @@ void selectionSort(int a[],int s);
 void printArray(int a[], int s);
 int i,j;
 void main() {
-  int a[]={1,3,4,2,5};
+  int a[]={1,3,4,2,6};
   int size=5;
   clrscr();
 
